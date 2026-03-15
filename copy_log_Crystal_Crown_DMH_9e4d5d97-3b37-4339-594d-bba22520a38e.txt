@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
-   Mon 05/19/2025  7:13:37.76 
+   Sun 03/15/2026 15:25:13.59 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:13:41 AM
+  Started : Sunday, March 15, 2026 3:25:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -66,7 +66,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\thumbnail.png100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\thumbnail.png 74%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -75,7 +75,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :    1.00 m    1.00 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 7:13:41 AM
+
+
+   Speed :           1052485000 Bytes/sec.
+   Speed :            60223.674 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 3:25:16 PM
 
  
 [DEBUG] Counting source files 
@@ -101,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:13:43 AM
+  Started : Sunday, March 15, 2026 3:25:18 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -111,16 +115,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   42337	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		  105773	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    41.3 k    41.3 k         0         0         0         0
+   Bytes :   103.2 k   103.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 7:13:43 AM
+   Ended : Sunday, March 15, 2026 3:25:18 PM
 
  
 [DEBUG] Counting source files 
@@ -146,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:13:45 AM
+  Started : Sunday, March 15, 2026 3:25:20 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -156,23 +160,23 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    5671	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png100%  
+	    New File  		   19209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png 74%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\GUI\metadata.lsf100%  
-	    New File  		    3299	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Localization\English\english.xml100%  
+	    New File  		    8021	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    1.01 m    1.01 m         0         0         0         0
+   Bytes :    1.03 m    1.03 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           530950500 Bytes/sec.
-   Speed :           30381.231 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:13:45 AM
+   Speed :           540080500 Bytes/sec.
+   Speed :           30903.654 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 3:25:20 PM
 
  
 [DEBUG] Counting source files 
@@ -198,7 +202,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:13:46 AM
+  Started : Sunday, March 15, 2026 3:25:22 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -208,16 +212,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   31799	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+	    New File  		   79099	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         3         3         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    31.0 k    31.0 k         0         0         0         0
+   Bytes :    77.2 k    77.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 7:13:46 AM
+   Ended : Sunday, March 15, 2026 3:25:22 PM
 
  
 [DEBUG] Counting source files 
