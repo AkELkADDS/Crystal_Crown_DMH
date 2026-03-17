@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
-   Tue 03/17/2026 20:01:10.55 
+   Tue 03/17/2026 21:02:23.34 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -82,7 +82,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:01:13 PM
+  Started : Tuesday, March 17, 2026 9:02:26 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -102,7 +102,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :    1.00 m    1.00 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 17, 2026 8:01:13 PM
+
+
+   Speed :           1052485000 Bytes/sec.
+   Speed :            60223.674 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:02:26 PM
 
  
 [DEBUG] Counting source files 
@@ -128,7 +132,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:01:16 PM
+  Started : Tuesday, March 17, 2026 9:02:27 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -147,7 +151,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   170.6 k   170.6 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 17, 2026 8:01:16 PM
+   Ended : Tuesday, March 17, 2026 9:02:27 PM
 
  
 [DEBUG] Counting source files 
@@ -173,7 +177,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:01:18 PM
+  Started : Tuesday, March 17, 2026 9:02:29 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -184,7 +188,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   12630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png  0%  100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\GUI\metadata.lsf100%  
 	    New File  		   15891	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Localization\English\english.xml100%  
 
@@ -197,9 +201,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           540726000 Bytes/sec.
-   Speed :           30940.589 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:01:18 PM
+   Speed :           1081452000 Bytes/sec.
+   Speed :            61881.179 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:02:29 PM
 
  
 [DEBUG] Counting source files 
@@ -225,7 +229,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:01:20 PM
+  Started : Tuesday, March 17, 2026 9:02:31 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -252,10 +256,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\d5cf04dc-323d-4358-a30a-a7eb74f534d0.lsf100%  
 	    New File  		    2851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f1fa1f62-704f-498e-ae05-e708bde4f095.lsf100%  
 	    New File  		    2852	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f74f808c-cdf4-43ea-8174-18bcabe7447c.lsf100%  
-	    New File  		  248644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2100%  
-	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.xml100%  
 	    New File  		  639468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2100%  
 	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.xml100%  
+	    New File  		  248644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -266,9 +270,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           117783666 Bytes/sec.
-   Speed :            6739.635 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:01:20 PM
+   Speed :           212010600 Bytes/sec.
+   Speed :           12131.343 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:02:31 PM
 
  
 [DEBUG] Counting source files 
@@ -294,7 +298,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:01:21 PM
+  Started : Tuesday, March 17, 2026 9:02:33 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -316,9 +320,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           888112000 Bytes/sec.
-   Speed :           50818.176 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:01:21 PM
+   Speed :           444056000 Bytes/sec.
+   Speed :           25409.088 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 9:02:33 PM
 
  
 [DEBUG] Counting source files 
