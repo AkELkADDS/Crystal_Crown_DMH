@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
-   Tue 03/17/2026 23:28:45.07 
+   Sat 03/28/2026  0:19:26.73 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -53,20 +53,157 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\d5cf04dc-323d-4358-a30a-a7eb74f534d0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f1fa1f62-704f-498e-ae05-e708bde4f095.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f74f808c-cdf4-43ea-8174-18bcabe7447c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\1b6be590-8971-4f6f-82d8-ff7a8b768e19.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2523ef72-b8ea-4484-b2fb-8fb0a886eada.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\292392a4-513c-46bb-a9c5-504d208328fd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2de116d0-992b-4fb1-a212-eb30bc743c36.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2ee0e5d5-45e2-4deb-b7a8-3013a63b1274.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2f119565-9bb4-4969-b4aa-ee8f5b5f11ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\31e5f77f-6384-4560-8961-a04a3922cc11.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\36810ba3-0445-4994-8223-d26819d7faec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3cb79cec-2713-4440-bb9d-2d6a049eb4e2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3ce9ebb0-9d35-433e-81ba-71bb3c56f823.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3dcc1e95-efef-4d5f-bc75-512a337dd008.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\4220712f-fd0e-4260-b1b6-c4f1e56cfd0f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\57e1c9e0-f257-44aa-b265-92c3234cc76f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\59acbe12-868f-4fad-9a08-a13f5fedb215.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\5acaeb87-8e63-47af-82ba-754b7e0b977c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\69eb9f8c-93dd-4a78-84bd-dd45c84f5723.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\6a80990b-a3e4-4dd8-b7fb-10800a8f9ec6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\7314cfe0-33d2-42a9-9402-a933d3e19e4a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\7ab2caa7-f347-44e8-8e02-86871edd0722.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\824ed59e-4b8e-4f0e-b766-817ac4dc7e2b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\842424a2-b7ed-43ff-9a2d-34b72940f0e0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\8628a42c-f358-497d-9d1a-c1c2f41382fd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\8ea2175a-3065-42e0-b1b1-a21156b87cb9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\91a3a17a-e57a-4e2b-ac01-0f2044e6a497.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\a70fb817-cea8-4f28-af3b-f2baa284bb72.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\a7579e39-e5ee-4316-aae2-2f4ae8e9c38c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\b49b9df3-369d-40e4-a288-b5b4b502feea.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\bdf8be61-4e49-4cea-a52b-5cf379a27ef1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\c332dfa8-5c2d-49af-be31-66a4080ed85f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\c33ad077-f8e1-41b7-a7ef-97bc710062c5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ca4d9ec2-3d28-4a95-ba7c-cfcd23ad8c63.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ca9367a6-de38-4bfd-bde1-508c76e3593b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\d53f17ca-bd9d-4e7c-9e95-64a1eb8bacd6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\d981e8fa-dee0-4b0b-901a-e8b2f52d46b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\de580b56-d095-490e-9678-6795b86cc935.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\de649490-ca95-466f-a9f2-eccea60da0fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\e60a6a18-bee8-4420-b5d5-e38687df9d6b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\f8298a76-40fb-44ba-8a19-1ca02cd74fcf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\fb26b16e-9c66-4f5a-9814-91854bd73e87.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ffc80125-d151-4059-9692-a56dc715c498.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 21 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_BGreen.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_BGreen.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Blue.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Blue.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Fire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Fire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Green.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Green.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Pink.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Pink.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Purple.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Purple.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Red.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Red.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_White.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_White.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 155 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 5 
  
-[LOG] Total files found across all folders: 30 
+[LOG] Total files found across all folders: 167 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -82,7 +219,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 11:28:48 PM
+  Started : Saturday, March 28, 2026 12:19:29 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -93,7 +230,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\thumbnail.png 74%  100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -106,7 +243,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1052485000 Bytes/sec.
    Speed :            60223.674 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 11:28:48 PM
+   Ended : Saturday, March 28, 2026 12:19:29 AM
 
  
 [DEBUG] Counting source files 
@@ -132,7 +269,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 11:28:49 PM
+  Started : Saturday, March 28, 2026 12:19:31 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -142,16 +279,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  174749	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		  519892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :   170.6 k   170.6 k         0         0         0         0
+   Bytes :   507.7 k   507.7 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 17, 2026 11:28:49 PM
+   Ended : Saturday, March 28, 2026 12:19:31 AM
 
  
 [DEBUG] Counting source files 
@@ -177,7 +314,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 11:28:51 PM
+  Started : Saturday, March 28, 2026 12:19:32 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -188,22 +325,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   12630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\meta.lsx100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png 49%  100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\GUI\metadata.lsf100%  
-	    New File  		   15891	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Localization\English\english.xml100%  
+	    New File  		   40636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    1.03 m    1.03 m         0         0         0         0
+   Bytes :    1.05 m    1.05 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           540726000 Bytes/sec.
-   Speed :           30940.589 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 11:28:51 PM
+   Speed :           553098500 Bytes/sec.
+   Speed :           31648.550 MegaBytes/min.
+   Ended : Saturday, March 28, 2026 12:19:32 AM
 
  
 [DEBUG] Counting source files 
@@ -229,7 +366,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 11:28:52 PM
+  Started : Saturday, March 28, 2026 12:19:34 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -239,7 +376,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  126397	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		  363097	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    2790	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\0489a118-2b4a-4e20-9794-d49e1f389573.lsf100%  
 	    New File  		    2854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\16efc317-1970-4900-a44d-27c6f1654073.lsf100%  
 	    New File  		    2793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\2bf0e733-23fa-4105-9bdc-d6a9408d88ef.lsf100%  
@@ -256,31 +393,165 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\d5cf04dc-323d-4358-a30a-a7eb74f534d0.lsf100%  
 	    New File  		    2851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f1fa1f62-704f-498e-ae05-e708bde4f095.lsf100%  
 	    New File  		    2852	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_CCrwn_Valtheris\f74f808c-cdf4-43ea-8174-18bcabe7447c.lsf100%  
+	    New File  		    2746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\1b6be590-8971-4f6f-82d8-ff7a8b768e19.lsf100%  
+	    New File  		    2745	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2523ef72-b8ea-4484-b2fb-8fb0a886eada.lsf100%  
+	    New File  		    2931	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\292392a4-513c-46bb-a9c5-504d208328fd.lsf100%  
+	    New File  		    2580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2de116d0-992b-4fb1-a212-eb30bc743c36.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2ee0e5d5-45e2-4deb-b7a8-3013a63b1274.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\2f119565-9bb4-4969-b4aa-ee8f5b5f11ab.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\31e5f77f-6384-4560-8961-a04a3922cc11.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\36810ba3-0445-4994-8223-d26819d7faec.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3cb79cec-2713-4440-bb9d-2d6a049eb4e2.lsf100%  
+	    New File  		    2746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3ce9ebb0-9d35-433e-81ba-71bb3c56f823.lsf100%  
+	    New File  		    2935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\3dcc1e95-efef-4d5f-bc75-512a337dd008.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\4220712f-fd0e-4260-b1b6-c4f1e56cfd0f.lsf100%  
+	    New File  		    2745	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\57e1c9e0-f257-44aa-b265-92c3234cc76f.lsf100%  
+	    New File  		    2934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\59acbe12-868f-4fad-9a08-a13f5fedb215.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\5acaeb87-8e63-47af-82ba-754b7e0b977c.lsf100%  
+	    New File  		    2935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\69eb9f8c-93dd-4a78-84bd-dd45c84f5723.lsf100%  
+	    New File  		    2744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\6a80990b-a3e4-4dd8-b7fb-10800a8f9ec6.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\7314cfe0-33d2-42a9-9402-a933d3e19e4a.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\7ab2caa7-f347-44e8-8e02-86871edd0722.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\824ed59e-4b8e-4f0e-b766-817ac4dc7e2b.lsf100%  
+	    New File  		    2745	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\842424a2-b7ed-43ff-9a2d-34b72940f0e0.lsf100%  
+	    New File  		    2747	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\8628a42c-f358-497d-9d1a-c1c2f41382fd.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\8ea2175a-3065-42e0-b1b1-a21156b87cb9.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\91a3a17a-e57a-4e2b-ac01-0f2044e6a497.lsf100%  
+	    New File  		    2580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\a70fb817-cea8-4f28-af3b-f2baa284bb72.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\a7579e39-e5ee-4316-aae2-2f4ae8e9c38c.lsf100%  
+	    New File  		    2934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\b49b9df3-369d-40e4-a288-b5b4b502feea.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\bdf8be61-4e49-4cea-a52b-5cf379a27ef1.lsf100%  
+	    New File  		    2933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\c332dfa8-5c2d-49af-be31-66a4080ed85f.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\c33ad077-f8e1-41b7-a7ef-97bc710062c5.lsf100%  
+	    New File  		    2931	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ca4d9ec2-3d28-4a95-ba7c-cfcd23ad8c63.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ca9367a6-de38-4bfd-bde1-508c76e3593b.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\d53f17ca-bd9d-4e7c-9e95-64a1eb8bacd6.lsf100%  
+	    New File  		    2933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\d981e8fa-dee0-4b0b-901a-e8b2f52d46b1.lsf100%  
+	    New File  		    2747	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\de580b56-d095-490e-9678-6795b86cc935.lsf100%  
+	    New File  		    2934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\de649490-ca95-466f-a9f2-eccea60da0fa.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\e60a6a18-bee8-4420-b5d5-e38687df9d6b.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\f8298a76-40fb-44ba-8a19-1ca02cd74fcf.lsf100%  
+	    New File  		    2934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\fb26b16e-9c66-4f5a-9814-91854bd73e87.lsf100%  
+	    New File  		    2936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Content\[PAK]_GlowInk_Head_DMH\ffc80125-d151-4059-9692-a56dc715c498.lsf100%  
 	    New File  		  639468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2100%  
 	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.xml100%  
 	    New File  		  248644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2100%  
 	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.GR2100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemAmethyst.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemAmethyst.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemBlood.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemBlood.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemEmerald.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemEmerald.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemIce.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemIce.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemObsidian.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemObsidian.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemSapphire.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemSapphire.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazH.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazH.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazY.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_A_GemTopazY.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemAmethyst.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemAmethyst.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemBlood.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemBlood.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemEmerald.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemEmerald.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemIce.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemIce.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemObsidian.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemObsidian.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemSapphire.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemSapphire.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazH.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazH.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazY.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_B_GemTopazY.xml100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemAmethyst.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemBlood.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemEmerald.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemIce.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemObsidian.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemSapphire.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemTopazH.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A_GemTopazY.GR2100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.GR2100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemAmethyst.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemAmethyst.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemBlood.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemBlood.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemEmerald.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemEmerald.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemIce.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemIce.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemObsidian.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemObsidian.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemSapphire.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemSapphire.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazH.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazH.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazY.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_A_GemTopazY.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemAmethyst.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemAmethyst.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemBlood.GR2100%  
+	    New File  		     198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemBlood.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemEmerald.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemEmerald.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemIce.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemIce.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemObsidian.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemObsidian.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemSapphire.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemSapphire.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazH.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazH.xml100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazY.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B_B_GemTopazY.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.GR2100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_BGreen.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_BGreen.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Blue.GR2100%  
+	    New File  		     194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Blue.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Fire.GR2100%  
+	    New File  		     194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Fire.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Green.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Green.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Pink.GR2100%  
+	    New File  		     194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Pink.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Purple.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Purple.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Red.GR2100%  
+	    New File  		     193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_Red.xml100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_White.GR2100%  
+	    New File  		     195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C_A_White.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         9         9         1         0         0         0
-   Files :        21        21         0         0         0         0
-   Bytes :    1.01 m    1.01 m         0         0         0         0
+    Dirs :        13        13         1         0         0         0
+   Files :       155       155         0         0         0         0
+   Bytes :   17.02 m   17.02 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            53002650 Bytes/sec.
-   Speed :            3032.835 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 11:28:52 PM
+   Speed :           595010133 Bytes/sec.
+   Speed :           34046.752 MegaBytes/min.
+   Ended : Saturday, March 28, 2026 12:19:34 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 21 
-[DEBUG] Successfully copied files: 21 
+[DEBUG] Total files counted: 155 
+[DEBUG] Successfully copied files: 155 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 
-      Total files: 21 
-      Copied successfully: 21 
+      Total files: 155 
+      Copied successfully: 155 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -298,7 +569,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 11:28:54 PM
+  Started : Saturday, March 28, 2026 12:19:36 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
      Dest : C:\GIT_BG3\MOD_REPOS\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\
 
@@ -308,29 +579,32 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  639468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2100%  
 	    New File  		  248644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_Jaw_Valtheris_CCrwn_ME.GR2100%  
+	    New File  		  639468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_Top_Valtheris_CCrwn_MF.GR2100%  
+	    New File  		  302324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_A.GR2100%  
+	    New File  		  345956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_B.GR2100%  
+	    New File  		  332828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\DMH\DGB_M_NKD_Head_D_EL_L_GlowInk_C.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         6         6         1         0         0         0
-   Files :         2         2         0         0         0         0
-   Bytes :   867.2 k   867.2 k         0         0         0         0
+    Dirs :         8         8         1         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :    1.78 m    1.78 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           888112000 Bytes/sec.
-   Speed :           50818.176 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 11:28:54 PM
+   Speed :           934610000 Bytes/sec.
+   Speed :           53478.813 MegaBytes/min.
+   Ended : Saturday, March 28, 2026 12:19:36 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 2 
-[DEBUG] Successfully copied files: 2 
+[DEBUG] Total files counted: 5 
+[DEBUG] Successfully copied files: 5 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e: 
-      Total files: 2 
-      Copied successfully: 2 
+      Total files: 5 
+      Copied successfully: 5 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -355,17 +629,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 21 
+[LOG] Files copied by xcopy: 155 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Crystal_Crown_DMH_9e4d5d97-3b37-4339-594d-bba22520a38e 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 2 
+[LOG] Files copied by xcopy: 5 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 30 
-[SUMMARY] Total files successfully copied: 60 
+[SUMMARY] Total files found: 167 
+[SUMMARY] Total files successfully copied: 334 
  
 [SUMMARY] All files were copied successfully 
  
